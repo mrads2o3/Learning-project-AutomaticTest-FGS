@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Toggler_icon</name>
+   <tag></tag>
+   <elementGuidId>0cd8a0ea-7c9d-4bed-acd2-8abb44f572b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.navbar-toggler-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>99d72ed6-3c54-45d1-96c2-7b5eb9909fe0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>navbar-toggler-icon</value>
+      <webElementGuid>70cd60b2-fc52-47af-884d-a3b8cca03f82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;d-flex flex-column min-vh-100  text-white&quot;]/header[@class=&quot;mb-5&quot;]/nav[@class=&quot;navbar navbar-expand-lg fixed-top  navbar-dark bg-dark shadow&quot;]/div[@class=&quot;container&quot;]/button[@class=&quot;navbar-toggler collapsed&quot;]/span[@class=&quot;navbar-toggler-icon&quot;]</value>
+      <webElementGuid>76766782-f366-445b-9d3b-968fa7ad2951</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>dae1405e-be53-48fa-861f-ad9f0cc71bf7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
